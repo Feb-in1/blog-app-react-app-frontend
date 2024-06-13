@@ -5,17 +5,13 @@ const SignIn = () => {
     return (
         <div>
 
-            <hr />
-
-
-
-
             <div>
                 <div className="container1-fluid">
 
 
                     <img class="img-fluid"
-                        src="https://clevertap.com/wp-content/uploads/2019/07/FTUE-blog-header1.png" width="100%" />
+                        src="https://www.hiresafe.com/wp-content/uploads/2015/02/free-office-wallpaper-26001-26685-hd-wallpapers.jpg" width="100%" height="100
+                    "/>
 
                     <div className="container1">
                         <div className="row g-3">
