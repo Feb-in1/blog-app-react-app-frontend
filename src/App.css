@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.container1 {
+  background: transparent;
+  position: absolute;
+  top: 40%; left: 67%;
+  text-align: left;
+}
+
+.hr{
+  height: 40px;
+ 
+}
